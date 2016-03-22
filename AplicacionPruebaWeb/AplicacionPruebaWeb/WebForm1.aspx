@@ -12,9 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>GarzaGay
-
-    </title>
+    <title>Instituto Atlético Central Córdoba, el único club de Córdoba.</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
